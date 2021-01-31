@@ -1,0 +1,2 @@
+rootProject.name='Locatr'
+include ':app'
